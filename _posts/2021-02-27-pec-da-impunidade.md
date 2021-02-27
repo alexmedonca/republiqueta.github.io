@@ -7,7 +7,7 @@ categories:
   - política
   - brasil
   - opinião
-image: assets/images/conselho-de-etica-e-decoro.jpg
+image: assets/images/cedp.jpg
 ---
 Para quem ficou contente com a prisão do Deputado Daniel Silveira (PSL-RJ), determinada pelo Min. Alexandre de Moraes na noite de 16 de fevereiro, e por um segundo se permitiu suspirar a contestável frase “as instituições estão funcionando!” quando o Câmara, por maioria, decidiu manter a prisão do deputado (uns em defesa da democracia, outros para evitar desentendimentos com o judiciário), lembre-se: ultimamente, neste país, a alegria dura pouco.
 
@@ -32,4 +32,3 @@ Aliás, para quem diz, diante de tudo isso, que "o silêncio do Palácio do Plan
 ---
 
 "CEDP - Conselho de Ética e Decoro Parlamentar" por Senado Federal é licenciada sob CC BY 2.0. Para ver uma cópia da licença, visite https://creativecommons.org/licenses/by/2.0/?ref=ccsearch&atype=rich
-
