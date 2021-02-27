@@ -7,7 +7,7 @@ categories:
   - política
   - brasil
   - opinião
-image: assets/images/conselho de etica e decoro.jpg
+image: assets/images/conselho-de-etica-e-decoro.jpg
 ---
 Para quem ficou contente com a prisão do Deputado Daniel Silveira (PSL-RJ), determinada pelo Min. Alexandre de Moraes na noite de 16 de fevereiro, e por um segundo se permitiu suspirar a contestável frase “as instituições estão funcionando!” quando o Câmara, por maioria, decidiu manter a prisão do deputado (uns em defesa da democracia, outros para evitar desentendimentos com o judiciário), lembre-se: ultimamente, neste país, a alegria dura pouco.
 
