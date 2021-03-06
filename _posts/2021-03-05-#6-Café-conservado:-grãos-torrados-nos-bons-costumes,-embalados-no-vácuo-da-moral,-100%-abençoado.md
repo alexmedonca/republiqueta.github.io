@@ -12,13 +12,13 @@ image: assets/images/cafe.jpg
 ---
 No 6º episódio da série, Guilherme Cruz e Leonardo Lima recebem Laís Ambiel Marachini, mestranda em Antropologia pela Unicamp, para discutir as prioridades do governo Bolsonaro em relação às pautas dos costumes. "Tem salvação pra tudo isso que tá aí?". Só se dermos roupas azuis para os meninos, roupas rosas para as meninas, um emprego decente, nas cidades, para os índios e 10% de tudo para as igrejas.
 
-[Nos ouçam na sua plataforma favorita](anchor.fm/podcastpaponocafe)
+[Nos ouçam no Spotfy](https://open.spotify.com/show/2F3ocRquuDNy2SwPHSgI4v)
 
 Nossas redes sociais:
 
-Twitter: @paponocafe
+[Twitter](https://twitter.com/home?logout=1614993705188): @paponocafe
 
-Instagram: @podcastpaponocafe
+[Instagram](https://www.instagram.com/podcastpaponocafe/): @podcastpaponocafe
 
 E-mail: podcastpaponocafe@gmail.com
 
