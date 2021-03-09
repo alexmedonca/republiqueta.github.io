@@ -2,15 +2,8 @@
 <html lang="pt-br">
 <head>
 {% if jekyll.environment == 'production' %}
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', '{{ site.google_analytics }}');
-</script>
+<script data-goatcounter="https://republiqueta.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
 {% endif %}
 
 <meta charset="utf-8">
@@ -32,8 +25,6 @@
 
 <script src={{ "assets/js/jquery.min.js" | relative_url }}></script>
 
-<script data-ad-client="pub-2806225552420654" async src="https://pagead2.googlesyndication
-.com/pagead/js/adsbygoogle.js"></script>
 </head>
 
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
