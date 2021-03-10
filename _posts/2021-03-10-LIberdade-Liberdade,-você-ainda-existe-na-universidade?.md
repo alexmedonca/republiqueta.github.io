@@ -1,0 +1,49 @@
+---
+layout: post
+title: Liberdade, Liberdade, você ainda existe na universidade?
+author: guilherme
+description: O controle do governo Bolsonaro nas universidades
+categories:
+  - memória
+  - debate público
+  - autoritarismo
+  - ditadura
+image: assets/images/censura.jpg
+---
+Quero pedir licença a meus colegas do direito deste site, porque gostaria de falar um pouquinho que seja sobre algumas leis.
+
+Para isso, vou fazer um retorno a um passado sombrio que está mais vivo do que gostaríamos de acreditar. Logo após o Ato Institucional nº. 5 (AI-5), de dezembro de 1968, a ditadura entrou em seu momento mais brutal. Nessa toada, diante de um igual aumento da resistência, seja artística, seja com as guerrilhas armadas, as universidades se tornaram espaços de combate: de um lado, simpatizantes do regime, ansiosos por expurgos no ensino superior para que pudessem se fartar com cargos e prestígio, de outro, professores, funcionários e estudantes se posicionavam abertamente contra o regime e favoráveis à uma universidade aberta e múltipla.
+
+Essa luta tinha como um dos pilares a proteção da autonomia universitária, instrumento fundamental de luta pela democracia e capaz de impulsionar avanços na ciência e no pensamento. Parece óbvio, porém, que ciência e pensamento não podem coexistir com reacionarismo e autoritarismo.
+
+Diante disso, o regime emite o Decreto-Lei nº. 477, de fevereiro de 1969. [Nesse decreto](https://www2.camara.leg.br/legin/fed/declei/1960-1969/decreto-lei-477-26-fevereiro-1969-367006-publicacaooriginal-1-pe.html) em seu artigo 1º, inciso VI, ele define ser infração de docente universitário quando este “Use dependência ou recinto escolar para fins de subversão ou para praticar ato contrário à moral ou à ordem pública”.
+
+Pois bem, na historiografia, bem como na ciência política, é mais do que consolidada a premissa de que um conceito vago é importante quando se quer criar espaços vazios de sentido e, com isso, possibilitar interpretações muitas vezes teratológicas. Na ditadura, o termo “subversão” foi um exemplo. Dentro do manual da Escola Superior de Guerra, como também no próprio texto do AI-5, há inúmeras referências ao “subversivo”, “inimigo interno”, “perigo vermelho”, dentre vários outros termos que assustavam as pessoas de bem daquela época. No entanto, por menos surpreendente que seja, nenhum desses termos era concretamente definidos. Não havia uma lista com tópicos, onde se poderia conferir e, caso a pessoa batesse com aquelas premissas da lista, poderia ser considerada “subversiva”.
+
+E esse caráter vago do termo foi essencial para que o regime pudesse perseguir de padre a guerrilheiro, de artista a sindicalista, de jornalista a professor. Todos poderiam ser “subversivos”.
+
+Pois bem, como do chão que brota ossos mal enterrados depois de uma tempestade, o espectro do “subversivo” dentro dos muros da universidade retornou. 
+
+A Controladoria Geral da União (CGU), abriu investigação contra dois professores da Universidade Federal de Pelota, por conta da manifestação de Pedro Hallal e Eraldo dos Santos Pinheiro proferidas em uma live da própria universidade transmitida em 7 de janeiro deste ano.
+
+As investigações não geraram punição pois ambos os professores aceitaram assinar um [Termo de Adequação de Conduta](https://static.poder360.com.br/2021/03/extrato-de-termo-de-ajustamento-de-conduta-pedro-rodrigues-curi-hallal-2-mar-2021.pdf), onde eles se comprometiam a não criticar o presidente dentro de 2 anos. A investigação se deu, segundo a CGU, pois as falas foram proferidas no espaço online da faculdade, portanto, segundo o órgão, torna as falas puníveis pelo [Inciso V do Artigo 117 da Lei nº 8.112/90](https://www.jusbrasil.com.br/topicos/10990505/inciso-v-do-artigo-117-da-lei-n-8112-de-11-de-dezembro-de-1990). 
+
+No inciso, que define o que um funcionário público não pode fazer, está escrito que lhe é vedado “promover manifestação de apreço ou desapreço no recinto da repartição”. Os termos “apreço” e “desapreço”, bem como o “subversivo”, são passíveis de debates interessantes, mas que não cabem neste texto.
+
+Quero chamar atenção para outra questão. O governo Bolsonaro, desde que assumiu a presidência, tem buscado restringir a autonomia universitária, como, por exemplo,  com a [MP 979/2020](https://www12.senado.leg.br/noticias/materias/2020/06/12/governo-revoga-mp-que-autorizava-weintraub-a-nomear-reitores-durante-a-pandemia). Essa tentativa é uma afronta à garantia dada pelo [artigo 207 da Constituição Federal](https://www.jusbrasil.com.br/topicos/10650167/artigo-207-da-constituicao-federal-de-1988), onde está claro a autonomia “didático-científica”. 
+
+Ora, há aqui um possível confronto entre uma fala científica, dentro do contexto de debate e uma emissão de “desapreço”, como aponta a investigação da CGU.
+ 
+Durante sua fala, Hallal afirmou que o presidente era um "defensor de torturador" e o "único chefe de Estado do mundo que não defende a vacinação" contra a Covid-19. Já Pinheiro chamou o presidente de "sujeito machista, homofóbico, genocida, que exalta torturadores e milicianos”. É claro que ambos não têm “apreço” pela figura do presidente Bolsonaro. Entretanto, não foi o próprio presidente, como sustenta Hallal, que se posicional para [desencorajar a vacinação em massa](https://www.bbc.com/portuguese/brasil-55939354)? Não foi o mesmo Bolsonaro, que afirmou ser [favorável a atuação das milícias no Rio de Janeiro](https://blogs.oglobo.globo.com/bernardo-mello-franco/post/em-discursos-bolsonaro-ja-exaltou-milicias-e-grupos-de-exterminio.html)? 
+
+É necessário perguntar aos bolsonaristas, tão críticos às falas desses professores, o que é uma atuação política? Quando eu pesquiso o genocídio da população escravizada no Brasil Colônia, não é político? Quando defendo, na academia, uma estrutura tributária justa, não é político? Quando preservo um acervo de arte indígena, não é um ato político?
+
+Talvez todo esse horror seja uma vingança contra Pedro Hallal, que coordenou a pesquisa nacional EpiCovid, cujos dados eram absolutamente contrários às farsas dantescas que o presidente defendia. Inclusive, Hallal publicou uma [carta aberta](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00141-0/fulltext) na famosa revista Lancet, onde ele afirma “Since the beginning of Bolsonaro's presidency in 2019, science has been attacked with budget cuts and negationism”.
+
+Ou talvez, como afirmei no início do texto, obscurantismo e autoritarismo não podem conviver junto com ciência e autonomia intelectual.
+
+Uma última pergunta: não foi a maior expressão de “desapreço” à democracia, aos direitos humanos, ao parlamento e à população brasileira o momento em que Jair Bolsonaro, diante de milhões de pessoas, fez uma [homenagem ao famoso torturador Brilhante Ustra](https://www.bbc.com/portuguese/noticias/2016/04/160415_bolsonaro_ongs_oab_mdb)? 
+
+---
+
+"Manipulate it - Against Censorship at Flickr" de Skye Suicide é licenciado por CC BY-NC-ND 2.0. para ver uma cópia da licença, visite https://creativecommons.org/licenses/by-nc-nd/2.0/
