@@ -14,6 +14,12 @@ No 7º episódio, Guilherme Cruz e Leonardo Lima recebem o geógrafo Jordan Andr
 
 
 
+Ouça na sua plataforma de áudio favorita:
+[Spotify](https://open.spotify.com/show/2F3ocRquuDNy2SwPHSgI4v)
+[google podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80OTMzNWJjOC9wb2RjYXN0L3Jzcw==)
+[Pocket Cast](https://pca.st/s25d88nw)
+[Rádio públic](https://radiopublic.com/papo-no-caf-60xkJz)
+
 Nossas redes sociais:
 
 Twitter: @paponocafe
