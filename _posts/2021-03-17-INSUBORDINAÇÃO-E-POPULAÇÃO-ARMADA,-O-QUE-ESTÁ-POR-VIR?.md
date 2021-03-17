@@ -5,6 +5,7 @@ author: guilherme
 description: Politização dos policiais militares e armamento da população
 categories:
   - política
+  - sociedade
   - autoritarismo
   - erosão constitucional
   - debate público
