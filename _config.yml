@@ -16,6 +16,16 @@ future: false
 
 # Authors
 authors:
+  cafe:
+    name: Papo no Café
+    display_name: Papo no Café
+    avatar: 'assets/images/cafe.jpg'
+    description: "nesse podcast, misturamos café, política, análises e um bom papo entre amigos"
+  gabi:
+    name: Guilherme Cruz
+    display_name: Guilherme Cruz
+    avatar: 'assets/images/guilherme.jpg'
+    description: "Me equilibrando entre olhar o passado e viver no presente"
   guilherme:
     name: Guilherme Cruz
     display_name: Guilherme Cruz
@@ -58,11 +68,6 @@ authors:
     display_name: Mends
     avatar: 'assets/images/mends.jpg'
     description: "44 anos sendo uma errata ambulante. Não me siga, porque não faço a mínima ideia pra onde estou indo. Não sabia o que queria com 18, não é agora que vou saber."
-  cafe:
-    name: Papo no Café
-    display_name: Papo no Café
-    avatar: 'assets/images/cafe.jpg'
-    description: "nesse podcast, misturamos café, política, análises e um bom papo entre amigos"
   rafa:
     name: Rafaela Cáffaro
     display_name: Rafaela Cáffaro
