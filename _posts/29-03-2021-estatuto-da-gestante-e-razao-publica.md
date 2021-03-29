@@ -22,6 +22,8 @@ Esse tipo de contradição é fruto da menor importância dada à razão públic
 Assim, a visão equivocada da democracia representativa, que permite que os representantes deixem de lado a razão pública para raciocinar apenas através de sua própria moral, faz com que a gente ande em círculos, ou até mesmo se perca no caminho. Tentar criar um incentivo financeiro para evitar a realização de abortos, ou exigir das mulheres a prestação de informações sobre a gravidez para os genitores não são meios capazes de garantir o direito e a proteção de gestantes, e, já que muitos parlamentares preferem ignorar os consensos sobrepostos das comunidades morais que firmaram um acordo por um Estado democrático e laico, temas tão importantes como esse não conseguem avançar.
 
 O aborto em casos de gravidez por estupro, anencefalia do feto ou risco de vida para a gestante são conquistas de direitos reprodutivos e não podem ser colocadas em risco por um projeto de lei disfarçado de Estatuto da Gestante. Os direitos das gestantes, por sua vez, devem ser garantidos por um estatuto que faça jus aos objetivos de promoção da saúde, dignidade, e liberdade de gestantes, e não as trate como meios para a proteção de outras vidas, mas como agentes ativas de suas próprias vidas.
+
 ---
+
 D, Debora. V. Ana Cristina Gonzalez. **Aborto na Suprema Corte: o caso da anencefalia no Brasil**. Revista Estudos Feministas, vol. 16, núm. 2, mayo-agosto, 2008, pp. 647-652. 
 "Pregnancy" por Kit4na é licenciado sob CC BY 2.0. Para ver uma cópia da licença, visite https://creativecommons.org/licenses/by/2.0/
