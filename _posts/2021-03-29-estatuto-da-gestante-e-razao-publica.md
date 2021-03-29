@@ -9,7 +9,7 @@ categories:
   - política
 image: assets/images/gestante.jpg
 ---
-Na última semana, o projeto de lei que pretende criar o Estatuto da Gestante foi usado de cavalo de Tróia para uma agenda conservadora que pretende minar as conquistas legislativas e jurídicas de direitos reprodutivos no Brasil. Além da proposta não ser verdadeiramente voltada à proteção das gestantes, carrega dentro de si um sonho de 2007 das alas religiosas do Congresso, o Estatuto do Nascituro, instrumento que busca restringir os direitos das mulheres em relação ao aborto, o qual as deliberações estão paralisadas na Câmara desde 2019.
+Na última semana, o projeto de lei que pretende criar o Estatuto da Gestante foi usado de cavalo de Tróia para uma agenda conservadora que pretende minar as conquistas legislativas e jurídicas de direitos reprodutivos no Brasil. Além da proposta não ser verdadeiramente voltada à proteção das gestantes, carrega dentro de si um velho sonho das alas religiosas do Congresso, o Estatuto do Nascituro, instrumento que busca restringir os direitos das mulheres em relação ao aborto, o qual as deliberações estão paralisadas na Câmara desde 2019.
 
 Apesar de enunciar, no início do documento, que dispõe sobre a proteção e os direitos das gestantes, toda a justificativa do projeto de lei é baseada no dever de proteção da vida intrauterina “desde a concepção", deixando de lado as reais necessidades das mulheres. Afinal, de que forma se pretende garantir a saúde de uma mulher grávida impondo a ela o dever de manter o genitor informado, “sob pena de responsabilidade”?
 
