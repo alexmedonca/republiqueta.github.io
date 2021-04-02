@@ -1,3 +1,4 @@
+---
 layout: post
 title: Sexta-feira santa
 author: gabi
@@ -6,7 +7,7 @@ categories:
   - política
   - psicanálise
 image: assets/images/fernet.jpg
-
+---
 Hoje vou caminhar um pouco as avessas das tradições sob as quais fui criada. Meus pais que me perdoem, o respeito continua o mesmo, mas as tradições... Farei como Paul B. Preciado em uma de suas entrevistas e falarei que com meus pais faço as pazes amorosamente, mas não partilho uma mesma genealogia política. Portanto, aqui as tradições serão colocadas um pouco de lado.
 
 Dito isso, queria propor que esse texto fosse como uma conversa de bar. Sabe, aquele que faz mais de um ano que tu não vai porque o seu presidente não comprou a vacina? Pois bem, queria propor que fosse algo mais ou menos igual a isso: a cadeira de plástico, o litrão gelado, o copo americano, a porção de amendoim, você batendo na mesa por discordar de todos os meus argumentos; eu rindo, porque era brincadeira, mas era sério. Sempre é sério. Queria propor sair um pouquinho de dentro de casa, mas na imaginação só, besta, porque não é para sair de verdade não, já que teu presidente não comprou a vacina e passou uma pandemia inteira falando besteira. No bar, inclusive, a conversa caminharia por esses assuntos, desde 2016 que a gente fala, que a gente tem medo, que a gente abomina tudo o que esse ser pensa. Em 2018 foi o ápice só, eu falei, você falou, os cientistas falaram, os professores falaram, todo mundo falou que ia dar ruim e deu. Deu a maior crise sanitária desse país e a gente tinha um boçal no governo. Foi isso. Muito bom, muito bem, parabéns, Brasil. Que caralho. Eu te amo, cara e você faz isso comigo? Mas o que poderia ser diferente?
