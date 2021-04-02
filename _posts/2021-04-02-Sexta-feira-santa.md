@@ -25,9 +25,7 @@ Por aqui nomearemos também o verdadeiro objeto de nosso ódio:
 
 Ai, ai, Jair, que incrível isso, um brinde! Todo dia eu tomo veneno querendo que você morra.
 
-Mas irei parar. Sem mais autopunição. O Brasil eu amo, você eu odeio. E é separando bonitinho assim que a melancolia vai passando. E vai passar, meu querido, vai passar.
-
-Porque a gente não sabe o que perdeu. Nós 
+Mas irei parar. Sem mais autopunição. O Brasil eu amo, você eu odeio. E é separando bonitinho assim que a melancolia vai passando. E vai passar, meu querido, vai passar. 
 
 ---
 
