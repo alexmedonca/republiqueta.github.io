@@ -20,17 +20,17 @@ authors:
     name: Papo no Café
     display_name: Papo no Café
     avatar: 'assets/images/cafe.jpg'
-    description: "nesse podcast, misturamos café, política, análises e um bom papo entre amigos"
+    description: "nesse podcast, misturamos café, política, análises e um bom papo entre amigos."
   gabi:
     name: Gabriela Morgado
     display_name: Gabriela Morgado
     avatar: 'assets/images/gabi.jpg'
-    description: "Sou o que invento nas experiências do dia a dia"
+    description: "Sou o que invento nas experiências do dia a dia."
   guilherme:
     name: Guilherme Cruz
     display_name: Guilherme Cruz
     avatar: 'assets/images/guilherme.jpg'
-    description: "Me equilibrando entre olhar o passado e viver no presente"
+    description: "Me equilibrando entre olhar o passado e viver no presente."
   igorL:
     name: Igor Lopes
     display_name: Igor Lopes
@@ -46,6 +46,11 @@ authors:
     display_name: Juan Comamala
     avatar: 'assets/images/juan.jpg'
     description: "O conforto não me move, não me inspira, não me instiga. O desconforto me move. Esse, me possui e me evolui."
+  lais:
+    name: Laís Marachini
+    display_name: Laís Marachini
+    avatar: 'assets/images/lais.jpg'
+    description: "Reflexões de uma jovem cientista social com uma pitada de ironia para ficar mais leve."
   lg:
     name: Luís Gustavo Pessoa Sales
     display_name: Luís Gustavo
@@ -72,7 +77,7 @@ authors:
     name: Rafaela Cáffaro
     display_name: Rafaela Cáffaro
     avatar: 'assets/images/rafa.jpg'
-    description: "Gosta da leveza que não me tira do chão"
+    description: "Gosta da leveza que não me tira do chão."
 
 # Plugins
 plugins:
