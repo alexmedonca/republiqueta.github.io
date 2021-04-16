@@ -11,7 +11,6 @@ image: assets/images/bola_de_gude.jpg
 ---
 
 Querido tempo,
-
 Têm dias que estou para falar com você! Mas assim, honestamente, sem conceitos ou definições, sem pensar em que referencial teórico usar para criar um diálogo com você ou o senhor? Senhor vai ficar muito formal nesta minha carta... Vou considerar você mesmo! Devo confessar que esse cenário em que te escrevo uma carta parece que faz mais sentido para mim. Tudo bem se for assim nossa comunicação? Uma carta, igual no projeto da terceira série que precisei escrever uma cartinha para alguém e escolhi os meus tios que moram no Japão. Engraçado, eu sempre quis ir para o Japão. Você sabia disso, não sabia? Será que foi isso que me motivou a escrever?
 
  Queria escrever como naqueles dias, apaixonada como quem ainda guarda no peito uma felicidade inocente na vida. Esse tempo(você) passou. Mas, no fim, foi mesmo isso que me levou a escrever para você. A infância. Mais precisamente uma música. Será que você já ouviu? Aqui vão alguns versos “há um menino, há um moleque/Morando sempre no meu coração/Toda vez que o adulto balança ele vem para me dar a mão”. Ah, querido tempo, temos andado bem balançados por esses dias.
