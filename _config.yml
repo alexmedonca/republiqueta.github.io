@@ -16,6 +16,11 @@ future: false
 
 # Authors
 authors:
+  ad+:
+    name: Além do mais
+    display_name: Além do mais
+    avatar: 'assets/images/alem.png'
+    description: "Neste podcast, Guilherme Cruz e Luís Gustavo buscam entender esta navelouca chamada Brasil através de uma leitura política e jurídica de seus principais acontecimentos"
   cafe:
     name: Papo no Café
     display_name: Papo no Café
