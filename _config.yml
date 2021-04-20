@@ -20,7 +20,12 @@ authors:
     name: Além do mais
     display_name: Além do mais
     avatar: 'assets/images/alem.png'
-    description: "Neste podcast, Guilherme Cruz e Luís Gustavo buscam entender esta navelouca chamada Brasil através de uma leitura política e jurídica de seus principais acontecimentos"
+    description: "Neste podcast, Guilherme Cruz e Luís Gustavo buscam entender esta navelouca chamada Brasil através de uma leitura política e jurídica de seus principais acontecimentos."
+  bruno:
+    name: Bruno Henrique
+    display_name: Bruno Henrique
+    avatar: 'assets/images/bruno.jpg'
+    description: "Professor de filosofia no expediente e leitor apaixonado de filosofia, literatura e psicanálise fora do expediente. E se escrevo é por mera ousadia."
   cafe:
     name: Papo no Café
     display_name: Papo no Café
