@@ -2,7 +2,7 @@
 
 layout: post
 title: 'A escrita e sua miríade'
-author: bruno henrique
+author: bruno
 description: A escrita e seus mistérios
 categories:
  - escrita
